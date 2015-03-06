@@ -33,7 +33,6 @@ import com.google.gson.JsonObject;
 /**
  * This class handles the layout and GUI components
  * @author Sung Yan Chao
- * smc395@drexel.edu
  * CS338 Project
  */
 public class HungryFrame extends JFrame 
