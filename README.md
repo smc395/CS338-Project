@@ -9,3 +9,6 @@ The project can be setup by importing the project folder and making sure that th
 - Eclipse
 - Java swing
 - Yummly API (used with permission)
+
+## Markup of GUI
+https://cloud.githubusercontent.com/assets/6887449/12494621/4ece2486-c059-11e5-8d97-67fde4a521ec.png
